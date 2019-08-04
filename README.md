@@ -4,8 +4,14 @@ This is a complete app having fully functioning like any chat app.You can reply 
 
 # Properties
 ->Login page and new user have to register to use it.
+
 ->You can follow other like tweeter.
+
 ->You can use hastag like in tweeter and can take look to your hastags.
-->can check messages done to other people 
+
+->can check messages done to other people.
+
 -> can check timeings of messages.
+
 all other small function that tweeter app have.
+
